@@ -1,5 +1,7 @@
 # API for **Remind Yourself** App
 
+> IN VALIDATION...
+
 ## How to get started
 
 > - `clone the repo`
